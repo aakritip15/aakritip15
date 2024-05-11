@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakritip15
 - 👀 I’m interested in Machine Learning, Backend Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning App/Web Development
 - 📫 How to reach me aakriti.p.03@gmail.com
 - ⚡ Fun fact: I'm a noob
 
